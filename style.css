@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1,a{
+    font-family: 'Khmer', sans-serif;
+    font-family: 'IM Fell English SC', serif;
+}
+h2{
+    font-family: 'Lobster', sans-serif;
+}
+.image{
+    border-radius: 700px;
+}
+.border{
+    border: 3px solid darkgoldenrod;
+    position: absolute;
+}
+.box{
+    border-left: 2px solid darkgoldenrod;
+}
+h4{
+    font-family: 'Nunito', sans-serif;
+}
